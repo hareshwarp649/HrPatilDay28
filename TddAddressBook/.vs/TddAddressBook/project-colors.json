@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eca4e276-aa05-4d34-b443-fdcd952d6aa5": {
+      "ProjectGuid": "eca4e276-aa05-4d34-b443-fdcd952d6aa5",
+      "DisplayName": "TddAddressBook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
